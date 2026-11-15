@@ -1,0 +1,8 @@
+.venv
+__pycache__
+*.pyc
+data/raw
+data/uploads.db
+locust_results
+notebook
+.git
